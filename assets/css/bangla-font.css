@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Kohinoor";
+    src: url("./KohinoorBangla-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Kohinoor-bold";
+    src: url("./KohinoorBangla-Bold.otf");
+    font-weight: normal;
+    font-style: normal;
+}
